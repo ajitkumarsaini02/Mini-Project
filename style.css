@@ -82,7 +82,7 @@ header {
 }
 
 main {
-  background-image: url(VLC_-_main (3).png);
+  background-image: url(VLC_-_main\ \(3\).png);
   background-size: cover;
   background-position: center;
   height: calc(100vh - 3.5rem);
@@ -111,5 +111,6 @@ main {
 .toast.show {
   opacity: 1;
 }
+
 
 
